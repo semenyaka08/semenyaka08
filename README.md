@@ -1,6 +1,6 @@
 # Hi there! ✨
 
-I'm passionate .NET Full-Stack Developer currently studying at the Kyiv Polytechnic Institute (FICE). Quick to learn, highly motivated, and always eager to tackle challenges. Enjoys solving complex problems, designing robust solutions, and building scalable and impactful applications that solve real-world problems.
+I'm passionate .NET Full Stack Developer currently studying at the Kyiv Polytechnic Institute (FICE). Quick to learn, highly motivated, and always eager to tackle challenges. Enjoys solving complex problems, designing robust solutions, and building scalable and impactful applications that solve real-world problems.
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:semenyaka.sergii08@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/S_semenyaka)
